@@ -7,4 +7,9 @@ Especially if you don't want to use a TTL cable OR you don't know your given IP 
 * Edit file to given MAC Address and username
 
 *Perform below code in terminal
+
+
 ```chmod +x ssh_script.sh && ./ssh_script.sh```
+
+* User will get prompt to provide password
+Enjoy!
